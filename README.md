@@ -18,7 +18,7 @@ select the shapes you need
 import images as needed
 
 ### Step 5:
-create pages based om your need and link them
+create pages based on your need and link them
 
 ### Step 6:
 Validate the HTML and CSS code.
@@ -26,197 +26,141 @@ Validate the HTML and CSS code.
 ## DESIGN:
 Figma
 ## PROGRAM :
-1st page:
-<div style="width: 100%; height: 100%; position: relative; background:
-#78FE0F">
-<div style="left: 90px; top: 439px; position: absolute; color: black;
-font-size: 20px; font-family: Inter; font-style: italic; font-weight: 900;
-word-wrap: break-word">REGISTER TODAY</div>
-<img style="width: 360px; height: 664px; left: 0px; top: 0px; position:
-absolute" src="https://via.placeholder.com/360x664" />
-<div style="width: 124px; height: 44px; left: 131px; top: 154px; position:
-absolute; background: #70FB1B"></div>
-<div style="left: 161px; top: 164px; position: absolute; color: black;
-font-size: 20px; font-family: Inter; font-style: italic; font-weight: 900;
-word-wrap: break-word">LOGIN</div>
-<div style="left: 96px; top: 105px; position: absolute; color: #ED1414;
-font-size: 20px; font-family: Inter; font-style: italic; font-weight: 900;
-word-wrap: break-word">SPORTS DAY EVENT</div>
-</div>
----
-// REGISTER TODAY
-color: black;
-font-size: 20px;
-font-family: Inter;
-font-style: italic;
-font-weight: 900;
-word-wrap: break-word
----
-// LOGIN
-color: black;
-font-size: 20px;
-font-family: Inter;
-font-style: italic;
-font-weight: 900;
-word-wrap: break-word
----
-// LOGIN
-color: black;
-font-size: 20px;
-font-family: Inter;
-font-style: italic;
-font-weight: 900;
-word-wrap: break-word
----
-// SPORTS DAY EVENT
-color: #ED1414;
-font-size: 20px;
-font-family: Inter;
-font-style: italic;
-font-weight: 900;
-word-wrap: break-word
-2nd page:
-<div style="width: 100%; height: 100%; position: relative; background:
-white">
-<img style="width: 349px; height: 640px; left: 0px; top: 0px; position:
-absolute" src="https://via.placeholder.com/349x640" />
-<div style="left: 64px; top: 26px; position: absolute; color: #F31111;
-font-size: 24px; font-family: Inter; font-style: italic; font-weight: 800;
-word-wrap: break-word">SPORTS EVENTS:</div>
-<div style="left: 104px; top: 84px; position: absolute; color: black;
-font-size: 16px; font-family: Inter; font-style: italic; font-weight: 400;
-word-wrap: break-word">CRICKET<br/><br/>BADMINTON<br/><br/>JAVELIN THROW<br/>
-<br/>LONG JUMP<br/><br/>400M HURDLES<br/><br/>DISCUS THROW<br/><br/>4X100M
-RELAY<br/><br/>SHOT PUT<br/><br/>HEXATHLON</div>
-</div>
-// SPORTS EVENTS:
-color: #F31111;
-font-size: 24px;
-font-family: Inter;
-font-style: italic;
-font-weight: 800;
-word-wrap: break-word
----
-// CRICKET<br/><br/>BADMINTON<br/><br/>JAVELIN THROW<br/><br/>LONG JUMP<br/>
-<br/>400M HURDLES<br/><br/>DISCUS THROW<br/><br/>4X100M RELAY<br/><br/>SHOT
-PUT<br/><br/>HEXATHLON
-color: black;
-font-size: 16px;
-font-family: Inter;
-font-style: italic;
-font-weight: 400;
-word-wrap: break-word
-3rd page:
-<div style="width: 100%; height: 100%; position: relative; background: white">
-<img style="width: 360px; height: 640px; left: 0px; top: 0px; position:
-absolute" src="https://via.placeholder.com/360x640" />
-<div style="left: 63px; top: 35px; position: absolute; color: #9E0BD2;
-font-size: 20px; font-family: Inter; font-style: italic; font-weight: 400;
-word-wrap: break-word">REGISTRATION FORM</div>
-<div style="width: 248px; height: 32px; left: 15px; top: 91px; position:
-absolute; background: #17F0FE"></div>
-<div style="width: 249px; height: 33px; left: 16px; top: 147px; position:
-absolute; background: #17F0FE"></div>
-<div style="width: 248px; height: 32px; left: 16px; top: 209px; position:
-absolute; background: #17F0FE"></div>
-<div style="width: 248px; height: 32px; left: 17px; top: 268px; position:
-absolute; background: #17F0FE"></div>
-<div style="width: 248px; height: 31px; left: 17px; top: 330px; position:
-absolute; background: #17F0FE"></div>
+/* Home Page */
+position: relative;
+width: 360px;
+height: 640px;
+background: #151414;
 
-<div style="width: 249px; height: 31px; left: 15px; top: 385px; position:
-absolute; background: #17F0FE"></div>
-<div style="left: 21px; top: 102px; position: absolute; color: black;
-font-size: 14px; font-family: Inter; font-style: italic; font-weight: 400;
-word-wrap: break-word">ATHLETE’S NAME:</div>
-<div style="width: 34px; height: 26px; left: 21px; top: 155px; position:
-absolute; color: black; font-size: 14px; font-family: Inter; font-style:
-italic; font-weight: 400; word-wrap: break-word">DOB:</div>
-<div style="left: 21px; top: 214px; position: absolute; color: black;
-font-size: 14px; font-family: Inter; font-style: italic; font-weight: 400;
-word-wrap: break-word">PHONE:</div>
-<div style="left: 21px; top: 277px; position: absolute; color: black;
-font-size: 14px; font-family: Inter; font-style: italic; font-weight: 400;
-word-wrap: break-word">GENDER:</div>
-<div style="left: 21px; top: 337px; position: absolute; color: black;
-font-size: 14px; font-family: Inter; font-style: italic; font-weight: 400;
-word-wrap: break-word">SPORTS:</div>
-<div style="left: 21px; top: 395px; position: absolute; color: black;
-font-size: 14px; font-family: Inter; font-style: italic; font-weight: 400;
-word-wrap: break-word">GRADE:</div>
-<div style="width: 140px; height: 27px; left: 66px; top: 439px; position:
-absolute; background: #ED9614"></div>
-<div style="left: 86px; top: 442px; position: absolute; color: black;
-font-size: 20px; font-family: Inter; font-style: italic; font-weight: 800;
-word-wrap: break-word">REGISTER</div>
-</div>
-// REGISTRATION FORM
-color: #9E0BD2;
-font-size: 20px;
-font-family: Inter;
-font-style: italic;
+/* Login Page */
+position: relative;
+width: 360px;
+height: 640px;
+background: #423FE1;
+
+/* Saveetha Engineering College */
+position: absolute;
+width: 332px;
+height: 39px;
+left: 20px;
+top: 19px;
+font-family: 'Inter';
+font-style: normal;
 font-weight: 400;
-word-wrap: break-word
----
-// ATHLETE’S NAME:
-color: black;
-font-size: 14px;
-font-family: Inter;
-font-style: italic;
+font-size: 23px;
+line-height: 28px;
+color: #05073E;
+
+/* Line 3 */
+position: absolute;
+width: 364px;
+height: 0px;
+left: 0px;
+top: 74px;
+
+/* logo 3 */
+box-sizing: border-box;
+position: absolute;
+width: 140px;
+height: 136px;
+left: 110px;
+top: 91px;
+background: url(logo.jpg);
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* DEPARTMENTS */
+position: absolute;
+width: 325px;
+height: 35px;
+left: 20px;
+top: 268px;
+font-family: 'Inter';
+font-style: normal;
 font-weight: 400;
-word-wrap: break-word
----
-// DOB:
-color: black;
-font-size: 14px;
-font-family: Inter;
-font-style: italic;
+font-size: 23px;
+line-height: 28px;
+text-align: center;
+color: #FFFFFF;
+border: 2px solid #0A0E6E;
+
+/* AI-ML */
+position: absolute;
+width: 320px;
+height: 33px;
+left: 20px;
+top: 313px;
+font-family: 'Inter';
+font-style: normal;
 font-weight: 400;
-word-wrap: break-word
----
-// PHONE:
-color: black;
-font-size: 14px;
-font-family: Inter;
-font-style: italic;
+font-size: 22px;
+line-height: 27px;
+text-align: center;
+color: #FFFFFF;
+
+/* AI-DS */
+position: absolute;
+width: 320px;
+height: 36px;
+left: 22px;
+top: 367px;
+font-family: 'Inter';
+font-style: normal;
 font-weight: 400;
-word-wrap: break-word
----
-// GENDER:
-color: black;
-font-size: 14px;
-font-family: Inter;
-font-style: italic;
+font-size: 22px;
+line-height: 27px;
+text-align: center;
+color: #FFFFFF;
+
+/* CC */
+position: absolute;
+width: 320px;
+height: 33px;
+left: 22px;
+top: 423px;
+font-family: 'Inter';
+font-style: normal;
 font-weight: 400;
-word-wrap: break-word
----
-// SPORTS:
-color: black;
-font-size: 14px;
-font-family: Inter;
-font-style: italic;
+font-size: 22px;
+line-height: 27px;
+text-align: center;
+color: #FFFFFF;
+
+/* IoT */
+position: absolute;
+width: 320px;
+height: 38px;
+left: 22px;
+top: 471px;
+font-family: 'Inter';
+font-style: normal;
 font-weight: 400;
-word-wrap: break-word
----
-// GRADE:
-color: black;
-font-size: 14px;
-font-family: Inter;
-font-style: italic;
+font-size: 22px;
+line-height: 27px;
+text-align: center;
+color: #FFFFFF;
+
+/* CSE */
+position: absolute;
+width: 320px;
+height: 35px;
+left: 23px;
+top: 521px;
+font-family: 'Inter';
+font-style: normal;
 font-weight: 400;
-word-wrap: break-word
----
-// REGISTER
-color: black;
-font-size: 20px;
-font-family: Inter;
-font-style: italic;
-font-weight: 800;
-word-wrap: break-word
+font-size: 22px;
+line-height: 27px;
+text-align: center;
+color: #FFFFFF;
 
 ##OUTPUT:
-![image](https://github.com/vijayashreebb/event-registration/assets/153714979/2282467d-9a67-49b2-a8a9-8172c7b96df3)
+![image](https://github.com/vijayashreebb/event-registration/assets/153714979/1bcbcdce-138e-4f10-8e8e-fc7885b1f3bc)
+![image](https://github.com/vijayashreebb/event-registration/assets/153714979/f3650458-e9ce-46b8-bbd3-247e71732bba)
+![image](https://github.com/vijayashreebb/event-registration/assets/153714979/ad4003a4-4ff5-47b5-b707-de7a9513349b)
 
-## Result:
-The program to design, develop and deploy a web application for event registration is
-completed successfully.
+##RESULT:
+The program to design, develope and deploy a web application for event registration is completed.
+ 
+
+
